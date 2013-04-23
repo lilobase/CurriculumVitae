@@ -2,6 +2,16 @@
 
 You will find my resumé in [french](french/home.md) or [English](english/home.md)
 
+## Specifications
+
+* name : LEMAIRE Arnaud
+* nationality : French
+* year of birth : 1989
+
+*note :    
+for confidentiality reasons, contact informations does not appear on the online CV.  
+To contact me, use one of the social network listed below or github.*
+
 ## Introduction
 
 I'm a Scrum Master, a Software Architect but a Software Craftsman as first.
