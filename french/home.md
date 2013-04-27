@@ -1,6 +1,6 @@
 # Curriculum Vitaé d'Arnaud LEMAIRE
 
-Si vous souhaitez avoir un rapide aperçu de mes compétences je vous conseille de regarder mon [CV résumé](cv-summary).
+Si vous souhaitez avoir un rapide aperçu de mes compétences je vous conseil de regarder mon [CV résumé](cv-summary).
 
 Vous trouverez également : 
 * [Mon parcours professionnel](career)
